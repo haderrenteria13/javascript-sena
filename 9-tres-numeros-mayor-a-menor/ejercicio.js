@@ -8,4 +8,6 @@ if (a > b && b > c){
     console.log (a)
     console.log (b)
     console.log (c)
-} if ()
+} if (1) {
+
+}
