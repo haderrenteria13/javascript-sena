@@ -1,0 +1,1 @@
+// 17.desarrollar el algoritmo que lea tres números y diga si uno es divisible del otro.

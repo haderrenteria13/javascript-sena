@@ -1,0 +1,1 @@
+// Desarrollar un algoritmo que evalué la siguiente expresión aritmética 1/n.
