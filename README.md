@@ -37,5 +37,5 @@ Este proyecto contiene una serie de ejercicios de JavaScript organizados en dos 
 Para ver los ejercicios, simplemente clona este repositorio y abre los archivos JavaScript en tu editor de código.
 
 ```bash
-git clone https://github.com/tu-usuario/conceptos-js.git
+git clone https://github.com/haderrenteria13/conceptos-js.git
 cd conceptos-js
